@@ -16,4 +16,8 @@ $ export GOPATH=$HOME/Documents/GOCODE
 $ export GOBIN=$GOPATH/bin
 $ cd src
 $ go get github.com/denisexifaras/golang
+$ cd github.com/denisexifaras/golang
+$ go build .
+$ ./golang
+> hello, world
 ```
