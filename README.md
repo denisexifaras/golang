@@ -15,5 +15,5 @@ Set up variables:
 export GOPATH=$HOME/Documents/GOCODE
 export GOBIN=$GOPATH/bin
 cd src
-$ go get <this git repo>
+$ go get github.com/denisexifaras/golang
 ```
