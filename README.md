@@ -12,8 +12,8 @@ $ mkdir pkg
 
 Set up variables:
 ```
-export GOPATH=$HOME/Documents/GOCODE
-export GOBIN=$GOPATH/bin
-cd src
+$ export GOPATH=$HOME/Documents/GOCODE
+$ export GOBIN=$GOPATH/bin
+$ cd src
 $ go get github.com/denisexifaras/golang
 ```
